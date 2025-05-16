@@ -77,7 +77,7 @@ O servidor vai rodar na porta 3000 (ou a que você configurou).
 
 Para usar as rotas protegidas, envie o token JWT no header:
 
-Authorization: Bearer <token>
+Authorization: Bearer < token >
 
 ---
 
